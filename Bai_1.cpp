@@ -12,3 +12,4 @@ int main()
 	  }
 	 cout <<"Tong la S = " << s << endl; 
 	 return 0; }
+//
